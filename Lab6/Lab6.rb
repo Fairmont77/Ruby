@@ -47,7 +47,6 @@ class Factory
   end
 end
 
-# Example usage
 factory = Factory.new
 
 # Adding more machines
